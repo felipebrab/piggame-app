@@ -1,0 +1,16 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel index.html --dist-dir ./dist"
+  },
+  "author": "Felipe Brasileiro Barbosa",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.3.2",
+    "sass": "^1.26.10"
+  }
+}
